@@ -11,8 +11,8 @@
     * [createJs学习之Bitmap 类](https://github.com/fredshare/blog/issues/4)
 
 * 平时日志
-    *[一些常见的编码小技巧整理](https://github.com/fredshare/blog/issues/8)
-    *[window.performance 详解](https://github.com/fredshare/blog/issues/5)
+    * [一些常见的编码小技巧整理](https://github.com/fredshare/blog/issues/8)
+    * [window.performance 详解](https://github.com/fredshare/blog/issues/5)
 
 * 利用gulp打造前端集成开发环境
-    *[介绍篇](https://github.com/fredshare/blog/issues/9)
+    * [介绍篇](https://github.com/fredshare/blog/issues/9)
