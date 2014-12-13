@@ -16,3 +16,4 @@
 
 * 利用gulp打造前端集成开发环境
     * [介绍篇](https://github.com/fredshare/blog/issues/9)
+    * [文件路径处理篇](https://github.com/fredshare/blog/issues/10)   
