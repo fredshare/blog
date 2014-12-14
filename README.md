@@ -16,4 +16,11 @@
 
 * 利用gulp打造前端集成开发环境
     * [介绍篇](https://github.com/fredshare/blog/issues/9)
-    * [文件路径处理篇](https://github.com/fredshare/blog/issues/10)   
+    * [代码部署](https://github.com/fredshare/blog/issues/10)
+    * [文件压缩](https://github.com/fredshare/blog/issues/11)
+    * [文件合并](https://github.com/fredshare/blog/issues/12)
+    * [文件加MD5戳](https://github.com/fredshare/blog/issues/13)
+    * [模块化开发](https://github.com/fredshare/blog/issues/14)
+    * [css sprite](https://github.com/fredshare/blog/issues/15)
+    * [less开发](https://github.com/fredshare/blog/issues/16)
+    * [内容嵌入](https://github.com/fredshare/blog/issues/17)
