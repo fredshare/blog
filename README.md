@@ -24,3 +24,8 @@
     * [css sprite](https://github.com/fredshare/blog/issues/15)
     * [less开发](https://github.com/fredshare/blog/issues/16)
     * [内容嵌入](https://github.com/fredshare/blog/issues/17)
+    * 
+
+* PHP性能监控
+    * [xhprof安装](https://github.com/fredshare/blog/issues/18)
+    * [xhprof阅读](https://github.com/fredshare/blog/issues/19)
