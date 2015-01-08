@@ -19,11 +19,7 @@
     * [代码部署](https://github.com/fredshare/blog/issues/10)
     * [文件压缩](https://github.com/fredshare/blog/issues/11)
     * [文件合并](https://github.com/fredshare/blog/issues/12)
-    * [文件加MD5戳](https://github.com/fredshare/blog/issues/13)
-    * [模块化开发](https://github.com/fredshare/blog/issues/14)
-    * [css sprite](https://github.com/fredshare/blog/issues/15)
-    * [less开发](https://github.com/fredshare/blog/issues/16)
-    * [内容嵌入](https://github.com/fredshare/blog/issues/17)
+
 
 * PHP性能监控
     * [xhprof安装](https://github.com/fredshare/blog/issues/18)
