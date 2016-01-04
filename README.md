@@ -4,6 +4,9 @@
 
 [目录]( https://fredshare.github.com/blog/)
 
+* 可视化源码发布系统
+    * [php打造可视化源码发布系统](https://github.com/fredshare/blog/issues/23)
+
 * createJS系列
     * [createJs 学习之准备工作](https://github.com/fredshare/blog/issues/1)
     * [createJs学习之Graphics 类](https://github.com/fredshare/blog/issues/2)
